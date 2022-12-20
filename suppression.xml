@@ -4,7 +4,7 @@
       <notes><![CDATA[
       file name: jquery-2.1.5.min.js
       ]]></notes>
-      <packageUrl regex="true">^pkg:javascript/jquery@.*$</packageUrl>
+      <packageUrl regex="true">^pkg:javascript/jqueri@.*$</packageUrl>
       <cve>CVE-2015-9251</cve>
    </suppress>
 </suppressions>
